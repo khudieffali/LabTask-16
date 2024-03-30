@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|d:\\praktikant\\garagetask\\inheritance-labtask\\inheritance-labtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|solutionrelative:inheritance-labtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|d:\\praktikant\\garagetask\\inheritance-labtask\\inheritance-labtask\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|solutionrelative:inheritance-labtask\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|d:\\praktikant\\garagetask\\inheritance-labtask\\inheritance-labtask\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|solutionrelative:inheritance-labtask\\birds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|d:\\praktikant\\garagetask\\inheritance-labtask\\inheritance-labtask\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|solutionrelative:inheritance-labtask\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|d:\\praktikant\\garagetask\\inheritance-labtask\\inheritance-labtask\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788E4447-2DC5-4D37-A689-4C60805C3A18}|Inheritance-LabTask\\Inheritance-LabTask.csproj|solutionrelative:inheritance-labtask\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Eagle.cs",
+              "RelativeDocumentMoniker": "Inheritance-LabTask\\Eagle.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Eagle.cs",
+              "RelativeToolTip": "Inheritance-LabTask\\Eagle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:05:35.734Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Duck.cs",
+              "RelativeDocumentMoniker": "Inheritance-LabTask\\Duck.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Duck.cs",
+              "RelativeToolTip": "Inheritance-LabTask\\Duck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:05:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Chicken.cs",
+              "RelativeDocumentMoniker": "Inheritance-LabTask\\Chicken.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Chicken.cs",
+              "RelativeToolTip": "Inheritance-LabTask\\Chicken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:05:19.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Birds.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Birds.cs",
+              "RelativeDocumentMoniker": "Inheritance-LabTask\\Birds.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Birds.cs",
+              "RelativeToolTip": "Inheritance-LabTask\\Birds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:02:40.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance-LabTask\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Inheritance-LabTask\\Inheritance-LabTask\\Program.cs",
+              "RelativeToolTip": "Inheritance-LabTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:02:13.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
